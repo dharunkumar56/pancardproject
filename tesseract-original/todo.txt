@@ -1,0 +1,2 @@
+1. jpeg and pdf
+2. rotate image
